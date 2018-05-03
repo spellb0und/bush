@@ -1,2 +1,2 @@
 # bush
-open cha mind
+standalone
